@@ -34,7 +34,7 @@ def keep_alive():
 # -------------------------------------------------------------
 # 2. BOT CONFIGURATION & DATABASE
 # -------------------------------------------------------------
-API_TOKEN = "8757489052:AAHpnMejddgncbqpKTYfcfS_rWLYLTDbY2Y"
+API_TOKEN = "8757489052:AAFMXJlcetlDdqKs36bVF2i7NlacnSwbD9Y"
 bot = telebot.TeleBot(API_TOKEN, threaded=True, num_threads=10)
 DB_PATH = "data.db"
 OWNER_ID = 7957905168
